@@ -1,0 +1,18 @@
+.square button {
+    outline: none;
+    background-color: white;
+    border: 1px solid #999;
+    width: 34px;
+    height: 34px;
+    font-size: 24px;
+}
+
+.square{
+    width: 34px;
+    height: 34px;
+    display: inline-block;
+}
+
+.showWinner{
+    float: left;
+}
